@@ -260,3 +260,16 @@
    75%  {background-color:#222; top:0px; bottom:20px;}
    100% {background-color:#222; top:0px; bottom:0px;} */
  }
+
+
+ @media (max-width: 768px) {
+ .portfolio-nav ul li a {
+  display: block;
+  background: #222;
+  color: #707070;
+  padding: 6px 20px;
+  border: 1px solid #333;
+  margin: 4px 4px;
+  transition: all 0.4s;
+}
+ }

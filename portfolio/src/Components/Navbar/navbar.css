@@ -157,6 +157,16 @@ header .navbar.sticky-header {
       color: #fff;
       font-size: 16px;
   }
+
+
+  .navbar .navbar-nav .nav-link.active {
+
+margin-top:50px
+  }
+  .navbar .navbar-nav .nav-item {
+    padding: 0px 6px 36px;
+    transition: all 0.3s;
+}
 }
 
 /* Ensure the logo and nav links are justified between */

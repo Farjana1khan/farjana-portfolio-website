@@ -116,3 +116,15 @@
     top: 0;
     left: 0;
   }
+
+  /* Media query for mobile view */
+@media (max-width: 768px) {
+  .about-content ul li {
+      width: 100%; /* Set width to 100% to make it a single column */
+      float: none; /* Remove float */
+      margin-right: 0; /* Adjust margin */
+  }
+  .farjana{
+    margin-top:50px
+  }
+}

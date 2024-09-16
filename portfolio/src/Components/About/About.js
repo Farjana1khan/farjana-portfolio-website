@@ -29,7 +29,7 @@ const About = () => {
           <div className="col-lg-8">
             {/* <!-- About Content start --> */}
             <div className="about-content wow fadeInUp" data-wow-delay="0.8s">
-              <h3>I'm Farjana Fatehmohd</h3>
+              <h3 className="farjana">I'm Farjana Fatehmohd</h3>
               <p>
                 I am Frontend Developer (React JS, Next JS), and building
                 projects that help humanity around the world, and solutions that
@@ -79,7 +79,8 @@ const About = () => {
                 </li>
                 <li>
                   <i className="fa fa-linkedin"></i>
-                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" target="_blank" rel="noreferrer" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd   </a>
+                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" 
+                 target="_blank" rel="noreferrer" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd   </a>
                 </li>
               </ul>
             </div>

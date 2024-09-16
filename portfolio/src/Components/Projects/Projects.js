@@ -286,7 +286,7 @@ const Projects = () => {
         <div className="row">
             <div className="col-md-12">
                 <div className="load-more-portfolio">
-                    <a href="/#">Load More Portfolio</a>
+                    <a href="/#">Load More Projects</a>
                 </div>
             </div>
         </div>
