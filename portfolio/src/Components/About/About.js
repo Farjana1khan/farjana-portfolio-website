@@ -59,17 +59,17 @@ const About = () => {
                 </li>
                 <li>
                   <i className="fi fi-rs-phone-call"></i>
-                  <b>Phone:</b> <a href="tel:+917021170769" style={{color:"#707070" , textDecoration:"underline"}}>+91 70211xxxxx</a>
+                  <b>Phone:</b> <a href="tel:+917021170769" target="_blank" rel="noreferrer" style={{color:"#707070" , textDecoration:"underline"}}>+91 70211xxxxx</a>
                 </li>
                 <li>
                   <i className="fi fi-rs-marker"></i>
-                  <b>Address:</b> Gurgaon, Haryana
+                  <b>Address:</b> Gurgaon, Haryana - India
                 </li>
                 <li>
                   <i className="fi fi-rs-envelope"></i>
                   <b>Email:</b>{" "}
-                  <a href="mailto:farjana09khan@gmail.com" style={{color:"#707070", textDecoration:"underline"}}>
-                  xyz@gmail.com
+                  <a href="mailto:farjana09khan@gmail.com" target="_blank" rel="noreferrer" style={{color:"#707070", textDecoration:"underline"}}>
+                  farjana09khan@gmail.com
                   </a>
                 </li>
 
@@ -79,7 +79,7 @@ const About = () => {
                 </li>
                 <li>
                   <i className="fa fa-linkedin"></i>
-                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd   </a>
+                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" target="_blank" rel="noreferrer" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd   </a>
                 </li>
               </ul>
             </div>
