@@ -1,0 +1,133 @@
+
+/***************************************/
+/*****     My Resume Section css    ****/
+/***************************************/
+
+.my-resume {
+    padding: 100px 0 70px;
+  }
+  
+  .sub-title {
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    background: #ff5d56;
+    padding: 14px 20px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+  }
+  
+  .sub-title i {
+    margin-right: 10px;
+    color: #fff;
+  }
+  
+  .experience-single {
+    background: #222;
+    padding: 40px 30px;
+    margin-top: 30px;
+    position: relative;
+  }
+  
+  .experience-single:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-bottom: 30px solid #222;
+    border-right: 30px solid transparent;
+    position: absolute;
+    top: -30px;
+    left: 30px;
+  }
+  
+  .experience-single h5 {
+    color: #ff5d56;
+    font-weight: 400;
+  }
+  
+  .experience-single h4 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .experience-single p {
+    margin: 0;
+    line-height: 1.6em;
+  }
+  
+  .experience-pagination,
+  .education-pagination {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .experience-pagination .swiper-pagination-bullet,
+  .education-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    border: 2px solid #222;
+    opacity: 1;
+    background: none;
+    transition: all 0.4s;
+  }
+  
+  .education-pagination .swiper-pagination-bullet-active,
+  .experience-pagination .swiper-pagination-bullet-active {
+    border-color: #ff5d56;
+  }
+  
+  .skill-single {
+    margin-bottom: 30px;
+  }
+  
+  .skill-single h5 {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 4px;
+    letter-spacing: 0.04em;
+  }
+  
+  .skill-ratting {
+    font-size: 20px;
+    color: #ff5d56;
+  }
+  
+  .counter-single {
+    background: #222;
+    border: 1px solid #333;
+    margin-bottom: 30px;
+    position: relative;
+    height: 82px;
+    padding-left: 100px;
+    padding-top: 12px;
+  }
+  
+  .counter-single .icon-box {
+    font-size: 50px;
+    color: #ff5d56;
+    line-height: 80px;
+    margin-bottom: 10px;
+    width: 80px;
+    height: 80px;
+    border-right: 1px solid #333;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+  
+  .counter-single h4 {
+    font-size: 28px;
+    color: #fff;
+    font-weight: 700;
+    margin: 0;
+  }
+  
+  .counter-single p {
+    margin: 0;
+  }

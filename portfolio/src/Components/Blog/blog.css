@@ -1,0 +1,124 @@
+/*******************************************/
+/*****      Latest Blog Section css     ****/
+/*******************************************/
+
+.latest-blog {
+    padding: 100px 0;
+  }
+  
+  .blog-single {
+    background: #222;
+    border: 1px solid #333;
+  }
+  
+  .blog-header {
+    position: relative;
+  }
+  
+  .blog-header-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    transform: scale(0.8);
+    opacity: 0;
+    transition: all 0.6s;
+  }
+  
+  .blog-single:hover .blog-header-overlay {
+    opacity: 1;
+    transform: scale(1);
+  }
+  
+  .blog-header-overlay a {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: #ff5d56;
+    border: 1px solid #ff5d56;
+    font-size: 20px;
+    color: #fff;
+    line-height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+    transition: all 0.5s;
+  }
+  
+  .blog-header-overlay a:hover {
+    background: none;
+    color: #ff5d56;
+  }
+  
+  .blog-header figure {
+    margin: 0;
+  }
+  
+  .blog-header figure img {
+    filter: grayscale(100%);
+  }
+  
+  .blog-single .blog-body {
+    padding: 30px 20px;
+  }
+  
+  .blog-single .blog-body h2 {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 14px;
+  }
+  
+  .blog-single .blog-body p {
+    margin: 0;
+    line-height: 1.6em;
+  }
+  
+  .blog-footer {
+    padding: 20px;
+    border-top: 1px solid #333;
+  }
+  
+  .blog-footer ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .blog-footer ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .blog-footer ul li i {
+    color: #ff5d56;
+    margin-right: 6px;
+  }
+  
+  /************************************/
+  /*****      Brand Slider css     ****/
+  /************************************/
+  
+  .brand-sponser {
+    padding: 60px 0;
+    background-color: #222;
+  }
+  
+  .brand-slide {
+    text-align: center;
+  }
+  
+  .brand-slide img {
+    opacity: 0.4;
+    transition: all 0.1s;
+  }
+  
+  .brand-slide:hover img {
+    opacity: 1;
+  }

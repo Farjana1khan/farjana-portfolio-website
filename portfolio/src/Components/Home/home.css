@@ -1,0 +1,115 @@
+/************************************/
+/*****     Banner Section css    ****/
+/************************************/
+
+.banner{
+	position: relative;
+    top: 0px;
+    left: 0; 
+    width: 100%;
+    padding: 220px 0 120px ;
+}
+
+.home-image{
+  width: 100%;
+  height:50vh;
+ 
+}
+
+.home-image img{
+  width: 100vw;
+  height:50vh;
+}
+
+.banner-content h2{
+	font-size: 22px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 2.3em;
+	margin-bottom: 1.5em;
+	letter-spacing: 0.04em;
+}
+
+.banner-content h2 span.before-heading{
+	display: block;
+	font-size: 22px;
+}
+
+.banner-content h2 span{
+	display: block;
+	font-size: 56px;
+	font-weight: 300;
+}
+
+.banner-content p{
+	color: #707070;
+	font-size: 20px;
+	font-weight: 300;
+	margin-bottom: 1.5em;
+}
+
+.btn-download{
+	display: inline-block;
+	border: 2px solid #fff;
+	padding: 14px 30px;
+	border-radius: 4px;
+	color: #fff;
+	transition: all 0.3s;
+}
+
+.btn-download:hover{
+	border-color: #ff5d56;
+	color: #ff5d56;
+}
+
+.cd-words-wrapper .is-visible{
+
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #ff5d56 29%,
+    #ffffff 67%,
+    #000000 100%
+  );
+ 
+ 
+  background-size: 200% ;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 70px;
+}
+
+
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+  from{
+    
+  }
+}
+
+
+.fadeInLeft{ 
+  /* margin-bottom: 80px; */
+   position: relative;
+   animation-name: example 5s;
+   animation-duration: 3s;
+   animation-timing-function: ease;
+   animation-delay: 0.1s;
+   animation-iteration-count: 2s;
+   animation-direction: alternate;
+ }
+
+
+
+ @keyframes example {
+   0%   { left:0px; right:20px;}
+   
+ }

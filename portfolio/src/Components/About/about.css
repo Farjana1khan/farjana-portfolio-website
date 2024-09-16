@@ -1,0 +1,118 @@
+/**************************************/
+/*****     About us Section css    ****/
+/**************************************/
+
+.about-us {
+    padding: 100px 0;
+  }
+  
+  .section-title {
+    text-align: center;
+    padding-bottom: 20px;
+    margin-bottom: 80px;
+    position: relative;
+  }
+  
+  .section-title:after {
+    content: "";
+    display: block;
+    width: 60px;
+    margin-left: -30px;
+    height: 0;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    border-bottom: 10px dotted #ff5d56;
+  }
+  
+  .section-title h2 {
+    color: #ff5d56;
+    font-family: "Berkshire Swash", cursive;
+    font-weight: normal;
+    font-size: 36px;
+  }
+  
+  .section-title p {
+    color: #707070;
+  }
+  
+  .about-image {
+    position: relative;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .about-image:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: -10px;
+    bottom: -10px;
+    border: 1px solid #222;
+    z-index: -1;
+  }
+  
+  .about-image img {
+    width: 100%;
+   
+  }
+  
+  .about-content h3 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 26px;
+    position: relative;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .about-content h3:after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 4px;
+    background: #ff5d56;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  
+  .about-content p {
+    line-height: 1.6em;
+    margin-bottom: 1.6em;
+  }
+  
+  .about-content ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  
+  .about-content ul:after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+  
+  .about-content ul li {
+    float: left;
+    width: 48%;
+    padding: 4px 0 4px 36px;
+    margin-right: 2%;
+    position: relative;
+  }
+  
+  .about-content ul li b,
+  .about-content ul li strong {
+    font-weight: 600;
+  }
+  
+  .about-content ul li i {
+    color: #ff5d56;
+    font-size: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }

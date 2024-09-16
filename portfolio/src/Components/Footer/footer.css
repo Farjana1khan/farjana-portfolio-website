@@ -1,0 +1,104 @@
+
+/****************************************/
+/*****       Footer Section css      ****/
+/****************************************/
+
+.main-footer {
+    padding: 100px 0;
+    background: #151515;
+  }
+  
+  .footer-logo {
+    text-align: center;
+  }
+  
+  .footer-logo h1 {
+    font-family: "Berkshire Swash", cursive;
+    font-weight: normal;
+    transition: all 0.3s;
+    color: #fff;
+  }
+  
+  .footer-logo h1 span {
+    color: #ff5d56;
+  }
+  
+  .footer-about {
+    max-width: 568px;
+    margin: 30px auto 0;
+    text-align: center;
+  }
+  
+  .footer-about p {
+    line-height: 1.6em;
+    margin-bottom: 1.6em;
+  }
+  
+  .footer-social {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .footer-social a {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    font-size: 22px;
+    background: #222;
+    line-height: 60px;
+    color: #707070;
+    border-radius: 50%;
+    border: 1px solid #333;
+    margin: 0 6px;
+    transition: all 0.5s;
+  }
+  
+  .footer-social a:hover {
+    background: none;
+    border-color: #ff5d56;
+    color: #ff5d56;
+  }
+  
+  .footer-copyright {
+    max-width: 568px;
+    margin: 40px auto 0;
+    text-align: center;
+    padding-top: 40px;
+    position: relative;
+  }
+  
+  .footer-copyright:before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 4px;
+    background: #333;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -50px;
+  }
+  
+  .footer-copyright p {
+    line-height: 1.6em;
+    margin: 0;
+  }
+  
+  .footer-copyright p a {
+    color: #707070;
+    text-decoration: underline;
+    transition: all 0.3s;
+  }
+  
+  .footer-copyright p a:hover {
+    color: #ff5d56;
+  }
+
+  /* @media (min-width: 576px) {
+    .main-footer .container .footer-copyright {
+     
+      margin-bottom: 40px;
+      background-color: #ff5d56;
+      
+    }
+  } */
