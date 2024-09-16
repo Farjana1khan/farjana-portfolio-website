@@ -22,7 +22,7 @@
     display: inline-block;
   }
   
-  .portfolio-nav ul li a {
+  .portfolio-nav ul li button {
     display: block;
     background: #222;
     color: #707070;
@@ -32,7 +32,7 @@
     transition: all 0.4s;
   }
   
-  .portfolio-nav ul li a.active-portfolio {
+  .portfolio-nav ul li button.active-portfolio {
     background: #ff5d56;
     color: #fff;
     border-color: #ff5d56;
@@ -144,7 +144,7 @@
     margin-top: 30px;
   }
   
-  .load-more-portfolio a {
+  .load-more-portfolio button {
     display: inline-block;
     font-size: 18px;
     background: #222;
@@ -154,7 +154,7 @@
     transition: all 0.3s;
   }
   
-  .load-more-portfolio a:hover {
+  .load-more-portfolio button:hover {
     border-color: #ff5d56;
     color: #ff5d56;
   }
@@ -263,7 +263,7 @@
 
 
  @media (max-width: 768px) {
- .portfolio-nav ul li a {
+ .portfolio-nav ul li button {
   display: block;
   background: #222;
   color: #707070;
