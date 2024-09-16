@@ -1,5 +1,5 @@
 import React from 'react'
-import "./portfolio.css"
+import "./projects.css"
 import Image1 from "../../images/portfolio-1.jpg"
 import Image2 from "../../images/portfolio-2.jpg"
 import Image3 from "../../images/portfolio-3.jpg"
@@ -14,7 +14,7 @@ import Team2 from "../../images/team-2.jpg"
 import Team3 from "../../images/team-3.jpg"
 import Team4 from "../../images/team-4.jpg"
 
-const Portfolio = () => {
+const Projects = () => {
   return (
     <>
 {/* //    <!-- Portfolio Section Starts --> */}
@@ -25,7 +25,7 @@ const Portfolio = () => {
             <div className="col-md-12">
                 {/* <!-- Section title start --> */}
                 <div className="section-title">
-                    <h2>Portfolio</h2>
+                    <h2>Projects</h2>
                     <p>See My Works - All Projects</p>
                 </div>
                 {/* <!-- Section title end --> */}
@@ -376,4 +376,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default Projects

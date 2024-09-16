@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import  {Link} from 'react-router-dom';
 import "./navbar.css";
+import Projects from './../Projects/Projects';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -44,7 +45,7 @@ const Navbar = () => {
               <li className="nav-item"><Link className="nav-link" to="/about" onClick={closeSidebar}>About</Link></li>
               <li className="nav-item"><Link className="nav-link" to="/services" onClick={closeSidebar}>Services</Link></li>
               <li className="nav-item"><Link className="nav-link" to="/resume" onClick={closeSidebar}>Resume</Link></li>
-              <li className="nav-item"><Link className="nav-link" to="/portfolio" onClick={closeSidebar}>Portfolio</Link></li>
+              <li className="nav-item"><Link className="nav-link" to="/projects" onClick={closeSidebar}>Projects</Link></li>
               <li className="nav-item"><Link className="nav-link" to="/pricing" onClick={closeSidebar}>Pricing</Link></li>
               <li className="nav-item"><Link className="nav-link" to="/blog" onClick={closeSidebar}>Blog</Link></li>
               <li className="nav-item"><Link className="nav-link" to="/contact" onClick={closeSidebar}>Contact</Link></li>
