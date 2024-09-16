@@ -51,8 +51,9 @@ const Services = () => {
                         <i className="fi fi-rs-computer"></i>
                     </div>
                     
-                    <h3>Backend Developer</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+                    <h3>Next JS Developer</h3>
+                    <p>I am Next JS Developer and individual building projects that help
+                        humanity around the world.</p>
                 </div>
                 {/* <!-- Service Single End --> */}
             </div>
