@@ -31,14 +31,14 @@ const Home = () => {
                 HTML/CSS, and Bootstrap, alongside backend technologies such as
                 Node.js and MongoDB.
                 <br/>
-                <a
+                {/* <a
                   href="https://drive.google.com/file/d/1137-SVcOayhQ06omwSL40SQ5plvW0rw9/view?usp=sharing"
                   className="btn-download mt-4"
                   target="_blank"
                   rel="noreferrer"
                 >
                   Download CV
-                </a>
+                </a> */}
               </p>
              </div>
             </div>
