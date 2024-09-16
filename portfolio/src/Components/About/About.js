@@ -78,8 +78,8 @@ const About = () => {
                   <b>Spoken Langages:</b> English - Hindi - Urdu
                 </li>
                 <li>
-                  <i className="fa fa-skype"></i>
-                  <b>Skype:</b> Farjana Khan
+                  <i className="fa fa-linkedin"></i>
+                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd</a>
                 </li>
               </ul>
             </div>
