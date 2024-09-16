@@ -79,7 +79,7 @@ const About = () => {
                 </li>
                 <li>
                   <i className="fa fa-linkedin"></i>
-                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd</a>
+                 <a href="https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/" style={{color:"#707070"}}> <b>LinkedIn:</b> Farjana Fatehmohd   </a>
                 </li>
               </ul>
             </div>
