@@ -216,7 +216,22 @@ const Resume = () => {
                             <div className="col-md-6">
                                 {/* <!-- Skill Single Start --> */}
                                 <div className="skill-single">
-                                    <h5>ReactJS</h5>
+                                    <h5>React JS</h5>
+                                    <div className="skill-ratting">
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                    </div>
+                                </div>
+                                {/* <!-- Skill Single End --> */}
+                            </div>
+                           
+                         <div className="col-md-6">
+                                {/* <!-- Skill Single Start --> */}
+                                <div className="skill-single">
+                                    <h5>Next JS</h5>
                                     <div className="skill-ratting">
                                         <i className="fa fa-star-o"></i>
                                         <i className="fa fa-star-o"></i>
@@ -246,7 +261,21 @@ const Resume = () => {
                             <div className="col-md-6">
                                 {/* <!-- Skill Single Start --> */}
                                 <div className="skill-single">
-                                    <h5>HTML/CSS</h5>
+                                    <h5>HTML5/CSS3</h5>
+                                    <div className="skill-ratting">
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                    </div>
+                                </div>
+                                {/* <!-- Skill Single End --> */}
+                            </div>
+                            <div className="col-md-6">
+                                {/* <!-- Skill Single Start --> */}
+                                <div className="skill-single">
+                                    <h5>Tailwind CSS</h5>
                                     <div className="skill-ratting">
                                         <i className="fa fa-star-o"></i>
                                         <i className="fa fa-star-o"></i>
@@ -262,6 +291,34 @@ const Resume = () => {
                                 {/* <!-- Skill Single Start --> */}
                                 <div className="skill-single">
                                     <h5>Bootstrap</h5>
+                                    <div className="skill-ratting">
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                    </div>
+                                </div>
+                                {/* <!-- Skill Single End --> */}
+                            </div>
+                            <div className="col-md-6">
+                                {/* <!-- Skill Single Start --> */}
+                                <div className="skill-single">
+                                    <h5>Formik</h5>
+                                    <div className="skill-ratting">
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                        <i className="fa fa-star-o"></i>
+                                    </div>
+                                </div>
+                                {/* <!-- Skill Single End --> */}
+                            </div>
+                            <div className="col-md-6">
+                                {/* <!-- Skill Single Start --> */}
+                                <div className="skill-single">
+                                    <h5>Material UI</h5>
                                     <div className="skill-ratting">
                                         <i className="fa fa-star-o"></i>
                                         <i className="fa fa-star-o"></i>
