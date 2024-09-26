@@ -59,7 +59,7 @@ const About = () => {
                 </li>
                 <li>
                   <i className="fi fi-rs-phone-call"></i>
-                  <b>Phone:</b> <a href="tel:+917021170769" target="_blank" rel="noreferrer" style={{color:"#707070" , textDecoration:"underline"}}>+91 70211xxxxx</a>
+                  <b>Phone:</b> <a href="tel:+917021170769" target="_blank" rel="noreferrer" style={{color:"#707070"}}> +91 7021170769</a>
                 </li>
                 <li>
                   <i className="fi fi-rs-marker"></i>
@@ -68,7 +68,7 @@ const About = () => {
                 <li>
                   <i className="fi fi-rs-envelope"></i>
                   <b>Email:</b>{" "}
-                  <a href="mailto:farjana09khan@gmail.com" target="_blank" rel="noreferrer" style={{color:"#707070", textDecoration:"underline"}}>
+                  <a href="mailto:farjana09khan@gmail.com" target="_blank" rel="noreferrer" style={{color:"#707070"}}>
                   farjana09khan@gmail.com
                   </a>
                 </li>

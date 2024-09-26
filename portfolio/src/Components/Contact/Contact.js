@@ -188,7 +188,7 @@ onSubmit={sendEmail}
                 {/* <!-- Contact info single start --> */}
                 <div className="contact-info-single wow fadeInUp" id="div2">
                     <h3>Phone No.</h3>
-                   <p> <a href="tel:+917021170769" style={{color:"#707070"}}>+91 702117xxxx</a>
+                   <p> <a href="tel:+917021170769" style={{color:"#707070"}}>+91 7021170769</a>
 </p>
                 </div>
                 {/* <!-- Contact info single end --> */}
@@ -199,7 +199,7 @@ onSubmit={sendEmail}
                 <div className="contact-info-single wow fadeInUp" id="div3">
                     <h3>Email</h3>
                     <p>
-  <a href="mailto:farjana09khan@gmail.com" style={{color:"#707070"}}>xyz@gmail.com</a>
+  <a href="mailto:farjana09khan@gmail.com" style={{color:"#707070"}}>farjana09khan@gmail.com</a>
 </p>
                 </div>
                 {/* <!-- Contact info single end --> */}
