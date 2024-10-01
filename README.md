@@ -34,22 +34,30 @@ I am always eager to learn and stay updated with the latest trends in web develo
 
 1. Blog Application
 Tech Stack: React, Tailwind CSS, Firebase, Redux Toolkit
+
 Live : [Blog Application](https://blogs-post-application.netlify.app/) | [GitHub Repo: GitHub Link](https://blogs-post-application.netlify.app/)
+
 Description: A feature-rich blog platform where users can create, edit, and delete blog posts. Includes Firebase authentication for secure login and signup. Integrated pagination and session persistence for seamless user experience.
 
 3. OZ Assignment Help
 Tech Stack: React, NextJS Tailwind CSS, Axios, Formik
+
 Live : [OZ Assignment Help](https://www.ozassignments.com/) | [GitHub Repo: GitHub Link](https://www.ozassignments.com/)
+
 Description: Welcome to OZ Assignments, your trusted destination for expert online assignment help services. From Online Proofreading and Editing Services, we offer customised solutions across 100+ courses and areas of study, tailored to your specific academic needs.
 
 4. E-commerce Website
 Tech Stack: MERN Stack
-Live Demo: [E-commerce Website](https://e-commerce-mern-app.netlify.app/) | [GitHub Repo: GitHub Link](https://e-commerce-mern-app.netlify.app/)
+
+Live : [E-commerce Website](https://e-commerce-mern-app.netlify.app/) | [GitHub Repo: GitHub Link](https://e-commerce-mern-app.netlify.app/)
+
 Description: An online e-commerce platform where users can browse products, filter by categories, and add items to a shopping cart. Integrated payment gateway and user authentication for a full shopping experience. Deployed using Vercel.
 
 6. Desklib
 Tech Stack: React, Next JS JavaScript, Tailwind CSS
-Live Demo: [Desklib](https://desklib.com/) | [GitHub Repo: GitHub Link](https://desklib.com/)
+
+Live : [Desklib](https://desklib.com/) | [GitHub Repo: GitHub Link](https://desklib.com/)
+
 Description: •  AI Grader: Automated system that evaluates and grades academic assignments and exams based on predefined criteria.
 •  AI Code Checker: A tool that checks programming code for correctness, efficiency, and adherence to coding standards.
 •  AI Quiz: Generates dynamic quizzes from study material to test knowledge on various subjects.
@@ -65,7 +73,9 @@ Description: •  AI Grader: Automated system that evaluates and grades academic
 
 7. Portfolio Website
 Tech Stack: ReactJS, Material UI, Bootstrap CSS
+
 Live : Farjana Khan | https://farjana-khan-portfolio-website.vercel.app/ 
+
 Description: A personal portfolio showcasing my projects and skills. Features sections like "About Me," "Skills," "Projects," and "Contact." Responsive across all devices, with smooth scrolling and modern UI design.
 
 # Experience
@@ -86,17 +96,20 @@ Developed and maintained multiple websites for clients, ensuring timely delivery
 Worked closely with clients to understand their business needs and provide tailored solutions.
 
 # Education
-Master of Computer Applications (MCA) – Pune University 
-Graduated with a focus on web development, software engineering, and computer science fundamentals.
+• Master of Computer Applications (MCA) – Pune University 
+• Graduated with a focus on web development, software engineering, and computer science fundamentals.
 
 # Certifications
-React.js Complete Guide – Udemy
-JavaScript Algorithms and Data Structures – Udemy
+• React.js Complete Guide – Udemy
+• JavaScript Algorithms and Data Structures – Udemy
 
-Contact
+# Contact
+
 Email: farjana09khan@gmail.com
+
 LinkedIn Url: https://www.linkedin.com/in/farjana-fatehmohd-17a8441a0/
 
 Let's Connect!
+
 If you’re interested in collaborating or just want to chat about tech, feel free to reach out. I’m always excited to work on innovative projects and explore new opportunities.
 
