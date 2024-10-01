@@ -33,30 +33,37 @@ I am always eager to learn and stay updated with the latest trends in web develo
 # Projects
 
 1. Blog Application
+   
 Tech Stack: React, Tailwind CSS, Firebase, Redux Toolkit
 
-Live : [Blog Application](https://blogs-post-application.netlify.app/) | [GitHub Repo: GitHub Link](https://blogs-post-application.netlify.app/)
+  Live : [Blog Application](https://blogs-post-application.netlify.app/) | [GitHub Repo: GitHub Link](https://blogs-post-application.netlify.app/)
 
-Description: A feature-rich blog platform where users can create, edit, and delete blog posts. Includes Firebase authentication for secure login and signup. Integrated pagination and session persistence for seamless user experience.
+  Description: A feature-rich blog platform where users can create, edit, and delete blog posts. Includes Firebase authentication for secure login and signup. Integrated pagination and session persistence for seamless 
+  user experience.
 
 3. OZ Assignment Help
-Tech Stack: React, NextJS Tailwind CSS, Axios, Formik
+   
+  Tech Stack: React, NextJS Tailwind CSS, Axios, Formik
 
-Live : [OZ Assignment Help](https://www.ozassignments.com/) | [GitHub Repo: GitHub Link](https://www.ozassignments.com/)
+  Live : [OZ Assignment Help](https://www.ozassignments.com/) | [GitHub Repo: GitHub Link](https://www.ozassignments.com/)
 
-Description: Welcome to OZ Assignments, your trusted destination for expert online assignment help services. From Online Proofreading and Editing Services, we offer customised solutions across 100+ courses and areas of study, tailored to your specific academic needs.
+  Description: Welcome to OZ Assignments, your trusted destination for expert online assignment help services. From Online Proofreading and Editing Services, we offer customised solutions across 100+ courses and areas of 
+  study, tailored to your specific academic needs.
 
 4. E-commerce Website
-Tech Stack: MERN Stack
+   
+  Tech Stack: MERN Stack
 
-Live : [E-commerce Website](https://e-commerce-mern-app.netlify.app/) | [GitHub Repo: GitHub Link](https://e-commerce-mern-app.netlify.app/)
+  Live : [E-commerce Website](https://e-commerce-mern-app.netlify.app/) | [GitHub Repo: GitHub Link](https://e-commerce-mern-app.netlify.app/)
 
-Description: An online e-commerce platform where users can browse products, filter by categories, and add items to a shopping cart. Integrated payment gateway and user authentication for a full shopping experience. Deployed using Vercel.
+  Description: An online e-commerce platform where users can browse products, filter by categories, and add items to a shopping cart. Integrated payment gateway and user authentication for a full shopping experience. 
+  Deployed using Vercel.
 
 6. Desklib
-Tech Stack: React, Next JS JavaScript, Tailwind CSS
+   
+  Tech Stack: React, Next JS JavaScript, Tailwind CSS
 
-Live : [Desklib](https://desklib.com/) | [GitHub Repo: GitHub Link](https://desklib.com/)
+  Live : [Desklib](https://desklib.com/) | [GitHub Repo: GitHub Link](https://desklib.com/)
 
 Description:
 •  AI Grader: Automated system that evaluates and grades academic assignments and exams based on predefined criteria.
@@ -80,28 +87,29 @@ Description:
 •  Past Documents: Previously stored academic or project documents used for reference.
 
 7. Portfolio Website
-Tech Stack: ReactJS, Material UI, Bootstrap CSS
+   
+   Tech Stack: ReactJS, Material UI, Bootstrap CSS
 
-Live : Farjana Khan | https://farjana-khan-portfolio-website.vercel.app/ 
+   Live : Farjana Khan | https://farjana-khan-portfolio-website.vercel.app/ 
 
-Description: A personal portfolio showcasing my projects and skills. Features sections like "About Me," "Skills," "Projects," and "Contact." Responsive across all devices, with smooth scrolling and modern UI design.
+   Description: A personal portfolio showcasing my projects and skills. Features sections like "About Me," "Skills," "Projects," and "Contact." Responsive across all devices, with smooth scrolling and modern UI design.
 
 # Experience
 
 • Frontend Developer at Zucol Group – 2023-2024
 
-Worked on several key projects including web application development, UI/UX improvements, and creating responsive web designs.
-Collaborated with backend teams to integrate APIs and ensure smooth data flow between the client and server.
-Improved website performance and SEO using best practices.
+   Worked on several key projects including web application development, UI/UX improvements, and creating responsive web designs.
+   Collaborated with backend teams to integrate APIs and ensure smooth data flow between the client and server.
+   Improved website performance and SEO using best practices.
 
 • React JS Developer at Cyber Moksh – 2022-2023
 
-Worked on projects including web application development, problem solving, and creating responsive web designs.
+   Worked on projects including web application development, problem solving, and creating responsive web designs.
 
 • Freelance Web Developer – 2024
 
-Developed and maintained multiple websites for clients, ensuring timely delivery of fully functional web applications.
-Worked closely with clients to understand their business needs and provide tailored solutions.
+   Developed and maintained multiple websites for clients, ensuring timely delivery of fully functional web applications.
+   Worked closely with clients to understand their business needs and provide tailored solutions.
 
 # Education
 • Master of Computer Applications (MCA) – Pune University 
