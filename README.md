@@ -17,21 +17,28 @@ I am always eager to learn and stay updated with the latest trends in web develo
      
 
  • State Management:
+   
     ✔ Experienced with Redux Toolkit and Context API for handling complex state
 
  • APIs & Backend:
-    Strong understanding of RESTful 
-    Experience with Node.js, Express.js, and basic CRUD operations with MongoDB
+   
+    ✔ Strong understanding of RESTful 
+    
+    ✔ Experience with Node.js, Express.js, and basic CRUD operations with MongoDB
 
  • Version Control:
-    Proficient in Git and GitHub, following best practices for collaborative development
+   
+    ✔ Proficient in Git and GitHub, following best practices for collaborative development
 
  • Tools & Libraries:
-    Axios for API handling, Formik for forms, Firebase for authentication and data management
+  
+    ✔ Axios for API handling, Formik for forms, Firebase for authentication and data management
 
  • Other Skills:
-    Responsive Design, Cross-browser Compatibility, and SEO optimization
-    Deployment with Vercel, Netlify, and Firebase
+   
+    ✔ Responsive Design, Cross-browser Compatibility, and SEO optimization
+   
+    ✔ Deployment with Vercel, Netlify, and Firebase
 
 # Projects
 
