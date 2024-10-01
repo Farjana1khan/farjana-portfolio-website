@@ -23,6 +23,8 @@ import CRUD from "../../images/CRUD.png"
 import RESTAPI from "../../images/RESTAPI.png"
 import Stackkaroo from "../../images/stackkaroo.png"
 import window from "../../images/window11.png"
+import BlogsApplication  from "../../images/blogsApp.jpg"
+import Webapp  from "../../images/webapp.jpg"
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState("*");
   const [visibleProjects, setVisibleProjects] = useState(12); // Initially show 12
@@ -74,6 +76,13 @@ const Projects = () => {
         link: "https://farjana-portfolio-website.netlify.app/"
       },
   
+      {
+        src: BlogsApplication,
+        title: "Blogs Application",
+        category: "reactjs",
+        desc: " blog platform where users can create, edit, and delete blog posts.Includes Firebase authentication for secure login and signup.",
+        link: "https://blogs-post-application.netlify.app/"
+      },
     {
       src: Fiverr,
       title: "Fiverr Website",
@@ -87,13 +96,8 @@ const Projects = () => {
         link: "https://astral-assignment.vercel.app/"
       },
  
-    {
-      src: Image6,
-      title: "mailchimp",
-      category: "reactjs",
-      link: "https://mailchimp-website.netlify.app/"
-    },
-    {
+  
+{
       src: ShoppingList,
       title: "Shopping List",
       category: "reactjs",
@@ -137,6 +141,13 @@ const Projects = () => {
       link: "https://github.com/Farjana1khan/movie-list-app"
     },
     {
+      src: Webapp,
+      title: "Login & Products CRUD",
+      category: "reactjs",
+      desc: "To create Product App React that includes login, registration with dummy product json API",
+      link: "https://react-product-crud.vercel.app/"
+    },
+    {
         src: CRUD,
         title: "CRUD Operation",
         category: "nodejs",
@@ -165,8 +176,21 @@ const Projects = () => {
         desc: "Window 11",
         link: " https://win11-desktop.vercel.app/"
       },
+      {
+        src: Image6,
+        title: "mailchimp",
+        category: "reactjs",
+        link: "https://mailchimp-website.netlify.app/"
+      },
+      {
+        src: Webapp,
+        title: "WebApp Products",
+        category: "reactjs",
+        desc: "To create a simple web application using React that includes login, registration, and product display features",
+        link: "https://webapp-product-list-app.netlify.app/"
+      },
      
-     
+      
   ];
 
   const handleFilterChange = (category) => {
