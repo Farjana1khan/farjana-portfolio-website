@@ -8,13 +8,13 @@ I am always eager to learn and stay updated with the latest trends in web develo
 # Skills
 
  • Frontend Technologies:
-     Proficient in React.js, Next.js, and JavaScript (ES6+)
-     Expertise in HTML5, CSS3, Tailwind CSS, SCSS, Bootstrap and responsive design principles
-     Extensive knowledge of Formik, Antd and Material UI
+    ✔ Proficient in React.js, Next.js, and JavaScript (ES6+)
+    ✔ Expertise in HTML5, CSS3, Tailwind CSS, SCSS, Bootstrap and responsive design principles
+    ✔ Extensive knowledge of Formik, Antd and Material UI
      
 
  • State Management:
-     Experienced with Redux Toolkit and Context API for handling complex state
+    ✔ Experienced with Redux Toolkit and Context API for handling complex state
 
  • APIs & Backend:
     Strong understanding of RESTful 
