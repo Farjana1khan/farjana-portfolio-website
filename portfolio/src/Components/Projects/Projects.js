@@ -5,7 +5,6 @@ import Image3 from "../../images/coffee.png";
 import Image2 from "../../images/music.jpg";
 import Image4 from "../../images/movie.jpg";
 import Fiverr from "../../images/fiverr.png";
-import Image6 from "../../images/mailchimp";
 import Image7 from "../../images/desklib";
 import Image8 from "../../images/ecommerce.jpg";
 import CondidateJob from "../../images/jobappli.jpg";
