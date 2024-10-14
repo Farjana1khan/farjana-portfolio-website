@@ -177,12 +177,6 @@ const Projects = () => {
         link: " https://win11-desktop.vercel.app/"
       },
       {
-        src: Image6,
-        title: "mailchimp",
-        category: "reactjs",
-        link: "https://mailchimp-website.netlify.app/"
-      },
-      {
         src: Webapp,
         title: "WebApp Products",
         category: "reactjs",
