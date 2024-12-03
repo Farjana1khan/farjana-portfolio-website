@@ -100,7 +100,7 @@ Description:
    
   Tech Stack: ReactJS, Material UI, Bootstrap CSS
 
-  Live : Farjana Khan | https://farjana-khan-portfolio-website.vercel.app/ 
+   Live : [Portfolio](https://farjana-portfolio-website.vercel.app/) 
 
   Description: A personal portfolio showcasing my projects and skills. Features sections like "About Me," "Skills," "Projects," and "Contact." Responsive across all devices, with smooth scrolling and modern UI design.
 
